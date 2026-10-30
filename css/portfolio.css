@@ -25,3 +25,29 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.portfolio-section-title {
+    margin-bottom: 72px;
+}
+
+.portfolio-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 48px 24px;
+}
+
+
+.portfolio-wrapper {
+    border-bottom: 1px solid #e7e9fc;
+    border-left: 1px solid #e7e9fc;
+    border-right: 1px solid #e7e9fc;
+    padding: 32px 16px;
+}
+.portfolio-item-title {
+    margin-bottom: 8px;
+}
+
+
+

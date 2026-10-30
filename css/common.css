@@ -17,3 +17,26 @@ a {
 address {
     font-style: normal;
 }
+
+
+h1, h2, h3, p {
+    margin: 0;
+}
+
+
+img {
+    display: block;
+    width: 100%;
+}
+
+.container {
+    max-width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.section {
+    padding: 120px 0;
+}
+
+

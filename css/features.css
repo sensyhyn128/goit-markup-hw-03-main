@@ -19,3 +19,27 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.features-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 156px;
+    padding: 120px;
+    gap: 24px;
+}
+
+.features .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.feature-title {
+    margin-bottom: 8px;
+    
+}
+
+.features-item {
+    min-width: 264px;
+}
